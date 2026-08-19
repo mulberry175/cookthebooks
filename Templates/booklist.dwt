@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="UTF-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Book List: 3 Baking Books for Lazy Bakers</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../css/main.css">	
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Titan+One&display=swap" rel="stylesheet">
+<!-- InstanceBeginEditable name="head" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+<header>
+		<div class="header-container">
+			<a href="../index.html"><img src="../images/cookthebookslogo.png" width="1920px" height="364px" alt="beige and red cook the books logo"></a>
+		
+		
+			<div class="utilities-menu">
+			<nav><a href="mailto:hello@cookthebooks.com">Contact</a> | <a href="../sitemap/index.html">Sitemap</a></nav>
+		
+			</div>
+		</div>
+		<div class="top-nav">
+		<nav>
+		<ul>
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="../about/index.html">About</a></li>
+			<li><a href="../releases/index.html">New Releases</a></li>
+			<li><a href="../cookbook/index.html">Book of the Month</a>
+				<ul>
+					<li><a href="../cookbook/index.html">Current</a></li>
+					<li><a href="../cookbook/archives/index.html">Archives</a></li>
+				</ul></li>
+			<li><a href="../booklists/index.html">Book Lists</a></li>
+			<li><a href="../resources/index.html">Resources</a>
+				<ul>
+					<li><a href="../resources/podcasts.html">Podcasts</a></li>
+					<li><a href="../resources/bookstores.html">Bookstores</a></li>
+					<li><a href="../resources/awards.html">Awards</a></li>
+					<li><a href="../resources/playlists.html">Playlists</a></li>
+				</ul></li>
+		  </ul>
+		</nav>
+	  </div>
+	</header>
+<!-- InstanceBeginEditable name="content" -->
+	
+<main><div id="content-container">
+<article>
+	<section><div class="introtext">
+		<h1>Book List</h1>
+		<h2>3 Baking Books for Lazy Bakers</h2>
+		<p>If you love to bake, but don’t want to get too precious about it, these no-fuss, no-muss baking
+			books are for you. No fancy ingredients, no expensive equipment, and not a single piping bag
+			in sight - just delicious treats that anyone can make!</p>
+		</div></section>
+	<section><div class="booklistrow">
+		<div class="booklistimagecontainer">
+		<img src="../images/cookiescrumbssmall.jpg" width="275px" height="342px"  alt="Cookies &amp; Crumbs cookbook cover with blue background and photograph of a giant chocolate chip cookie">
+			<div class="middle">
+			<div class="text"><a href="https://www.google.ca/books/edition/Ottolenghi_Comfort/mUDxEAAAQBAJ?hl=en&gbpv=1&dq=ottolenghi+comfort&printsec=frontcover" target="_blank">Preview on Google Books</a></div></div>
+		</div>
+		<h3>Cookies &amp; Crumbs by Kaja Hengstenberg</h3>
+		<p>If you’re looking to expand your cookie repertoire, you can’t do
+		   much better than Kaja Hegstenberg’s Cookies &amp; Crumbs. This
+		   fun cookbook offers unique and unforgettable flavour
+		   combinations without taking itself too seriously. The recipes are
+		   are simple enough for beginner bakers and Hengstenberg
+		   offers handy tips throughout.</p>
+		<p><b>Must-try recipe:</b> Cardamom, Coconut &amp; Coffee Cookies</p>
+		
+</div>
+	</section>
+
+	<section><div class="booklistrow">
+		<div class="booklistimagecontainer">
+		<img src="../images/snackingbakessmall.jpg" width="275px" height="306px" style="width:100%" alt="Snacking Bakes cookbook cover with light blue background and a photograph of brownies cut into squares">
+			<div class="middle">
+			<div class="text"><a href="https://www.google.ca/books/edition/Ottolenghi_Comfort/mUDxEAAAQBAJ?hl=en&gbpv=1&dq=ottolenghi+comfort&printsec=frontcover" target="_blank">Preview on Google Books</a></div></div>
+		</div>
+		<h3>Snacking Bakes by Yossy Arefi</h3>
+		<p>In this follow-up to her wildly successful Snacking Cakes, Yossy
+		   Arefi expands her baking philosophy of “minimal effort, big
+		   rewards” to include cookies, cakes, brownies and bars. With 60
+	  	   recipes that can be made in under an hour, in one bowl with no
+		   fancy equipment Snacking Bakes is the perfect book for lazy
+		   bakers.</p>
+		<p><b>Must-try recipe:</b> Glazed Cookie Butter Bars</p>
+</div>
+	</section>
+	
+	<section><div class="booklistrow">
+		<div class="booklistimagecontainer">
+		<img src="../images/bakeclubsmall.jpg">
+			<div class="middle">
+			<div class="text"><a href="https://www.google.ca/books/edition/Ottolenghi_Comfort/mUDxEAAAQBAJ?hl=en&gbpv=1&dq=ottolenghi+comfort&printsec=frontcover" target="_blank">Preview on Google Books</a></div></div>
+		</div>
+		<h3>Bake Club by Christina Tosi</h3>
+		<p>The queen of playful baking and nostalgic treats, Christina Tosi
+		   wants everyone to feel like they can be a baker. Her latest
+		   cookbook, Bake Club, is loaded with fun and delicious snacks
+		   and baked goods that anyone make - no fancy ingredients or
+		   equipment needed! From homemade pop rocks to peanut
+		   butter crunch pie, Bake Club's recipes are sure bring out your
+		   inner child and make you smile.</p>
+		
+		<p><b>Must-try recipe:</b> Apple Cider Donut Bundt Cake</p>
+</div>
+	</section>
+</article>
+	<div class="archivebutton"><a href="../booklists/index.html">Back to Booklists</a></div>
+	</div>
+</main>
+	<!-- InstanceEndEditable -->
+<footer>
+<nav><a href="../releases/index.html">New Releases</a> <a href="../cookbook/index.html">Book of the Month</a> <a href="../booklists/index.html">Book Lists</a> <a href="../resources/index.html">Resources</a></nav>
+<p><a href="../index.html">Home</a> | <a href="../about/index.html">About</a> | <a href="mailt:hello@cookthebooks.com">Contact</a> | <a href="../sitemap/index.html">Sitemap</a></p>
+	<p>Website created by Gaelan Cormier | Last Update: December 11, 2025</p>
+	
+</footer>
+</div>
+</body>
+<!-- InstanceEnd --></html>
